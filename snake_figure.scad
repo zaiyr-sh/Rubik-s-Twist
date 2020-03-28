@@ -7,6 +7,11 @@ h = 5;
 r1 = 5.2;
 r2 = 3.2;
 
+translate([10,-9.5,1.8]) rotate([90,0,90])
+color("grey") linear_extrude(1,2){
+text("COM-18", font = "Liberation Sans:style=Bold Italic", size = 3.5);
+} 
+
 module pyramid(size){
     intersection() {
         translate([0,0, size])
