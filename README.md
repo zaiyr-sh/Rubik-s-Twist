@@ -20,10 +20,10 @@ Midterm Exam [Group project with 3D print]
 * Creating github repository (readme.md should be filled with description and photos, commit history should be more than 1 commit) - :white_check_mark:
 
 <p align="center">
-  <img src="https://i.imgur.com/2tZ8nFU.png" alt="Preview" width="1052px" height="480px"/>
+  <img src="https://i.imgur.com/rwY9X4w.png" alt="Preview"/>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/WeIRJXR.png" alt="Preview" width="1052px" height="480px"/>
+  <img src="https://i.imgur.com/WeIRJXR.png" alt="Preview"/>
 </p>
 
 # Story
