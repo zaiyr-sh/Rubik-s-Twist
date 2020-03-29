@@ -5,6 +5,13 @@ Midterm Exam [Group project with 3D print]
   <img src="https://cf.shopee.ph/file/c5b93b3493a1e9ae6882ed10b1a1ed67" alt="Preview"/>
 </p>
 
+# Team:
+1) Timur Kasenov - Team leader
+2) Zaiyr Sharsheev - Engineer
+3) Daniiar Raiymkulov - Copyrighter & Designer
+4) Baatyr Birnazarov - PR manager
+5) Daniiar Mukash-uulu - Sponsor & Designer
+
 # Project requirements:
 * Detailed instructions and list of parts provided on thingverse - :white_check_mark:
 * Photos and renders demonstration with credits (group members and roles) provided (also on thingverse) - :white_check_mark:
@@ -25,6 +32,15 @@ Midterm Exam [Group project with 3D print]
 <p align="center">
   <img src="https://i.imgur.com/WeIRJXR.png" alt="Preview"/>
 </p>
+
+# Screenshot of models
+<p align="center">
+  <img src="https://i.imgur.com/u721LJX.png" alt="Preview"/>
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/g55sobp.png" alt="Preview"/>
+</p>
+
 
 # Story
 <p align="center">
